@@ -12,5 +12,5 @@ functions:
     handler: graphql.default
     events:
       - http:
-        path: graphql
-        method: get
+          path: graphql
+          method: get
